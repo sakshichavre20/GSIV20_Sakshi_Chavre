@@ -6,6 +6,6 @@
  4. Run npx react-native run-android 
  ... project is ready to run.
  
- I have done proper navigation and design of UI as per requirements, I am good at designing UI's as per requirements .
+ I have done proper navigation and design of UI as per requirements, I am good at designing UI's .
 
  
